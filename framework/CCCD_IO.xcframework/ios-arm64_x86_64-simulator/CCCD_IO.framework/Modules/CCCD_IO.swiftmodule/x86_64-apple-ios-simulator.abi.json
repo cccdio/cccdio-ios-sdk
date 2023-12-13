@@ -1,0 +1,2613 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "CCCDError",
+        "printedName": "CCCDError",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "userCancelled",
+            "printedName": "userCancelled",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(CCCD_IO.CCCDError.Type) -> CCCD_IO.CCCDError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CCCDError",
+                    "printedName": "CCCD_IO.CCCDError",
+                    "usr": "c:@M@CCCD_IO@E@CCCDError"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "CCCD_IO.CCCDError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CCCDError",
+                        "printedName": "CCCD_IO.CCCDError",
+                        "usr": "c:@M@CCCD_IO@E@CCCDError"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "c:@M@CCCD_IO@E@CCCDError@CCCDErrorUserCancelled",
+            "mangledName": "$s7CCCD_IO9CCCDErrorO13userCancelledyA2CmF",
+            "moduleName": "CCCD_IO",
+            "declAttributes": [
+              "ObjC"
+            ],
+            "fixedbinaryorder": 0
+          },
+          {
+            "kind": "Var",
+            "name": "cameraPermission",
+            "printedName": "cameraPermission",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(CCCD_IO.CCCDError.Type) -> CCCD_IO.CCCDError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CCCDError",
+                    "printedName": "CCCD_IO.CCCDError",
+                    "usr": "c:@M@CCCD_IO@E@CCCDError"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "CCCD_IO.CCCDError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CCCDError",
+                        "printedName": "CCCD_IO.CCCDError",
+                        "usr": "c:@M@CCCD_IO@E@CCCDError"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "c:@M@CCCD_IO@E@CCCDError@CCCDErrorCameraPermission",
+            "mangledName": "$s7CCCD_IO9CCCDErrorO16cameraPermissionyA2CmF",
+            "moduleName": "CCCD_IO",
+            "declAttributes": [
+              "ObjC"
+            ],
+            "fixedbinaryorder": 1
+          },
+          {
+            "kind": "Var",
+            "name": "cameraUnavailable",
+            "printedName": "cameraUnavailable",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(CCCD_IO.CCCDError.Type) -> CCCD_IO.CCCDError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CCCDError",
+                    "printedName": "CCCD_IO.CCCDError",
+                    "usr": "c:@M@CCCD_IO@E@CCCDError"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "CCCD_IO.CCCDError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CCCDError",
+                        "printedName": "CCCD_IO.CCCDError",
+                        "usr": "c:@M@CCCD_IO@E@CCCDError"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "c:@M@CCCD_IO@E@CCCDError@CCCDErrorCameraUnavailable",
+            "mangledName": "$s7CCCD_IO9CCCDErrorO17cameraUnavailableyA2CmF",
+            "moduleName": "CCCD_IO",
+            "declAttributes": [
+              "ObjC"
+            ],
+            "fixedbinaryorder": 2
+          },
+          {
+            "kind": "Var",
+            "name": "invalidImageData",
+            "printedName": "invalidImageData",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(CCCD_IO.CCCDError.Type) -> CCCD_IO.CCCDError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CCCDError",
+                    "printedName": "CCCD_IO.CCCDError",
+                    "usr": "c:@M@CCCD_IO@E@CCCDError"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "CCCD_IO.CCCDError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CCCDError",
+                        "printedName": "CCCD_IO.CCCDError",
+                        "usr": "c:@M@CCCD_IO@E@CCCDError"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "c:@M@CCCD_IO@E@CCCDError@CCCDErrorInvalidImageData",
+            "mangledName": "$s7CCCD_IO9CCCDErrorO16invalidImageDatayA2CmF",
+            "moduleName": "CCCD_IO",
+            "declAttributes": [
+              "ObjC"
+            ],
+            "fixedbinaryorder": 3
+          },
+          {
+            "kind": "Var",
+            "name": "writeToDisk",
+            "printedName": "writeToDisk",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(CCCD_IO.CCCDError.Type) -> CCCD_IO.CCCDError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CCCDError",
+                    "printedName": "CCCD_IO.CCCDError",
+                    "usr": "c:@M@CCCD_IO@E@CCCDError"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "CCCD_IO.CCCDError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CCCDError",
+                        "printedName": "CCCD_IO.CCCDError",
+                        "usr": "c:@M@CCCD_IO@E@CCCDError"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "c:@M@CCCD_IO@E@CCCDError@CCCDErrorWriteToDisk",
+            "mangledName": "$s7CCCD_IO9CCCDErrorO11writeToDiskyA2CmF",
+            "moduleName": "CCCD_IO",
+            "declAttributes": [
+              "ObjC"
+            ],
+            "fixedbinaryorder": 4
+          },
+          {
+            "kind": "Var",
+            "name": "http",
+            "printedName": "http",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(CCCD_IO.CCCDError.Type) -> CCCD_IO.CCCDError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CCCDError",
+                    "printedName": "CCCD_IO.CCCDError",
+                    "usr": "c:@M@CCCD_IO@E@CCCDError"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "CCCD_IO.CCCDError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CCCDError",
+                        "printedName": "CCCD_IO.CCCDError",
+                        "usr": "c:@M@CCCD_IO@E@CCCDError"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "c:@M@CCCD_IO@E@CCCDError@CCCDErrorHttp",
+            "mangledName": "$s7CCCD_IO9CCCDErrorO4httpyA2CmF",
+            "moduleName": "CCCD_IO",
+            "declAttributes": [
+              "ObjC"
+            ],
+            "fixedbinaryorder": 5
+          },
+          {
+            "kind": "Var",
+            "name": "versionInsufficient",
+            "printedName": "versionInsufficient",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(CCCD_IO.CCCDError.Type) -> CCCD_IO.CCCDError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CCCDError",
+                    "printedName": "CCCD_IO.CCCDError",
+                    "usr": "c:@M@CCCD_IO@E@CCCDError"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "CCCD_IO.CCCDError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CCCDError",
+                        "printedName": "CCCD_IO.CCCDError",
+                        "usr": "c:@M@CCCD_IO@E@CCCDError"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "c:@M@CCCD_IO@E@CCCDError@CCCDErrorVersionInsufficient",
+            "mangledName": "$s7CCCD_IO9CCCDErrorO19versionInsufficientyA2CmF",
+            "moduleName": "CCCD_IO",
+            "declAttributes": [
+              "ObjC"
+            ],
+            "fixedbinaryorder": 6
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(rawValue:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "CCCD_IO.CCCDError?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CCCDError",
+                    "printedName": "CCCD_IO.CCCDError",
+                    "usr": "c:@M@CCCD_IO@E@CCCDError"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:7CCCD_IO9CCCDErrorO8rawValueACSgSi_tcfc",
+            "mangledName": "$s7CCCD_IO9CCCDErrorO8rawValueACSgSi_tcfc",
+            "moduleName": "CCCD_IO",
+            "implicit": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Var",
+            "name": "rawValue",
+            "printedName": "rawValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:7CCCD_IO9CCCDErrorO8rawValueSivp",
+            "mangledName": "$s7CCCD_IO9CCCDErrorO8rawValueSivp",
+            "moduleName": "CCCD_IO",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7CCCD_IO9CCCDErrorO8rawValueSivg",
+                "mangledName": "$s7CCCD_IO9CCCDErrorO8rawValueSivg",
+                "moduleName": "CCCD_IO",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "_nsErrorDomain",
+            "printedName": "_nsErrorDomain",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:7CCCD_IO9CCCDErrorO14_nsErrorDomainSSvpZ",
+            "mangledName": "$s7CCCD_IO9CCCDErrorO14_nsErrorDomainSSvpZ",
+            "moduleName": "CCCD_IO",
+            "static": true,
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7CCCD_IO9CCCDErrorO14_nsErrorDomainSSvgZ",
+                "mangledName": "$s7CCCD_IO9CCCDErrorO14_nsErrorDomainSSvgZ",
+                "moduleName": "CCCD_IO",
+                "static": true,
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "c:@M@CCCD_IO@E@CCCDError",
+        "mangledName": "$s7CCCD_IO9CCCDErrorO",
+        "moduleName": "CCCD_IO",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC"
+        ],
+        "enumRawTypeName": "Int",
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RawRepresentable",
+            "printedName": "RawRepresentable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "RawValue",
+                "printedName": "RawValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:SY",
+            "mangledName": "$sSY"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Error",
+            "printedName": "Error",
+            "usr": "s:s5ErrorP",
+            "mangledName": "$ss5ErrorP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_BridgedNSError",
+            "printedName": "_BridgedNSError",
+            "usr": "s:10Foundation15_BridgedNSErrorP",
+            "mangledName": "$s10Foundation15_BridgedNSErrorP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_ObjectiveCBridgeableError",
+            "printedName": "_ObjectiveCBridgeableError",
+            "usr": "s:10Foundation26_ObjectiveCBridgeableErrorP",
+            "mangledName": "$s10Foundation26_ObjectiveCBridgeableErrorP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "CCCDConfig",
+        "printedName": "CCCDConfig",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "token",
+            "printedName": "token",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@CCCD_IO@objc(cs)CCCDConfig(py)token",
+            "mangledName": "$s7CCCD_IO10CCCDConfigC5tokenSSvp",
+            "moduleName": "CCCD_IO",
+            "declAttributes": [
+              "Final",
+              "HasStorage",
+              "AccessControl",
+              "ObjC"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@CCCD_IO@objc(cs)CCCDConfig(im)token",
+                "mangledName": "$s7CCCD_IO10CCCDConfigC5tokenSSvg",
+                "moduleName": "CCCD_IO",
+                "implicit": true,
+                "declAttributes": [
+                  "Final",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "workflowRunID",
+            "printedName": "workflowRunID",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@CCCD_IO@objc(cs)CCCDConfig(py)workflowRunID",
+            "mangledName": "$s7CCCD_IO10CCCDConfigC13workflowRunIDSSvp",
+            "moduleName": "CCCD_IO",
+            "declAttributes": [
+              "Final",
+              "HasStorage",
+              "AccessControl",
+              "ObjC"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@CCCD_IO@objc(cs)CCCDConfig(im)workflowRunID",
+                "mangledName": "$s7CCCD_IO10CCCDConfigC13workflowRunIDSSvg",
+                "moduleName": "CCCD_IO",
+                "implicit": true,
+                "declAttributes": [
+                  "Final",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(workflowRunID:token:tokenExpirationHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CCCDConfig",
+                "printedName": "CCCD_IO.CCCDConfig",
+                "usr": "c:@M@CCCD_IO@objc(cs)CCCDConfig"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "((@escaping (Swift.String) -> ()) -> ())?",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(@escaping (Swift.String) -> ()) -> ()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      },
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "(Swift.String) -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "String",
+                            "printedName": "Swift.String",
+                            "usr": "s:SS"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@CCCD_IO@objc(cs)CCCDConfig(im)initWithWorkflowRunID:token:tokenExpirationHandler:",
+            "mangledName": "$s7CCCD_IO10CCCDConfigC13workflowRunID5token0G17ExpirationHandlerACSS_SSyySSccSgtcfc",
+            "moduleName": "CCCD_IO",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CCCDConfig",
+                "printedName": "CCCD_IO.CCCDConfig",
+                "usr": "c:@M@CCCD_IO@objc(cs)CCCDConfig"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@CCCD_IO@objc(cs)CCCDConfig(im)init",
+            "mangledName": "$s7CCCD_IO10CCCDConfigCACycfc",
+            "moduleName": "CCCD_IO",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@CCCD_IO@objc(cs)CCCDConfig",
+        "mangledName": "$s7CCCD_IO10CCCDConfigC",
+        "moduleName": "CCCD_IO",
+        "declAttributes": [
+          "AccessControl",
+          "ObjCMembers",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "CCCDResponse",
+        "printedName": "CCCDResponse",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "error",
+            "printedName": "error",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Error?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Error",
+                    "printedName": "Swift.Error",
+                    "usr": "s:s5ErrorP"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@CCCD_IO@objc(cs)CCCDResponse(py)error",
+            "mangledName": "$s7CCCD_IO12CCCDResponseC5errors5Error_pSgvp",
+            "moduleName": "CCCD_IO",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Error?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Error",
+                        "printedName": "Swift.Error",
+                        "usr": "s:s5ErrorP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@CCCD_IO@objc(cs)CCCDResponse(im)error",
+                "mangledName": "$s7CCCD_IO12CCCDResponseC5errors5Error_pSgvg",
+                "moduleName": "CCCD_IO",
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CCCDResponse",
+                "printedName": "CCCD_IO.CCCDResponse",
+                "usr": "c:@M@CCCD_IO@objc(cs)CCCDResponse"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@CCCD_IO@objc(cs)CCCDResponse(im)init",
+            "mangledName": "$s7CCCD_IO12CCCDResponseCACycfc",
+            "moduleName": "CCCD_IO",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@CCCD_IO@objc(cs)CCCDResponse",
+        "mangledName": "$s7CCCD_IO12CCCDResponseC",
+        "moduleName": "CCCD_IO",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "hasMissingDesignatedInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "CCCDViewController",
+        "printedName": "CCCDViewController",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "cccdConfig",
+            "printedName": "cccdConfig",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "CCCD_IO.CCCDConfig?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CCCDConfig",
+                    "printedName": "CCCD_IO.CCCDConfig",
+                    "usr": "c:@M@CCCD_IO@objc(cs)CCCDConfig"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@CCCD_IO@objc(cs)CCCDViewController(py)cccdConfig",
+            "mangledName": "$s7CCCD_IO18CCCDViewControllerC10cccdConfigAA10CCCDConfigCSgvp",
+            "moduleName": "CCCD_IO",
+            "declAttributes": [
+              "HasInitialValue",
+              "Custom",
+              "HasStorage",
+              "AccessControl",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "CCCD_IO.CCCDConfig?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CCCDConfig",
+                        "printedName": "CCCD_IO.CCCDConfig",
+                        "usr": "c:@M@CCCD_IO@objc(cs)CCCDConfig"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@CCCD_IO@objc(cs)CCCDViewController(im)cccdConfig",
+                "mangledName": "$s7CCCD_IO18CCCDViewControllerC10cccdConfigAA10CCCDConfigCSgvg",
+                "moduleName": "CCCD_IO",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "CCCD_IO.CCCDConfig?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CCCDConfig",
+                        "printedName": "CCCD_IO.CCCDConfig",
+                        "usr": "c:@M@CCCD_IO@objc(cs)CCCDConfig"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@CCCD_IO@objc(cs)CCCDViewController(im)setCccdConfig:",
+                "mangledName": "$s7CCCD_IO18CCCDViewControllerC10cccdConfigAA10CCCDConfigCSgvs",
+                "moduleName": "CCCD_IO",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7CCCD_IO18CCCDViewControllerC10cccdConfigAA10CCCDConfigCSgvM",
+                "mangledName": "$s7CCCD_IO18CCCDViewControllerC10cccdConfigAA10CCCDConfigCSgvM",
+                "moduleName": "CCCD_IO",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "setCCCDCompletionHandler",
+            "printedName": "setCCCDCompletionHandler(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(CCCD_IO.CCCDResponse) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CCCDResponse",
+                    "printedName": "CCCD_IO.CCCDResponse",
+                    "usr": "c:@M@CCCD_IO@objc(cs)CCCDResponse"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@CCCD_IO@objc(cs)CCCDViewController(im)setCCCDCompletionHandler:",
+            "mangledName": "$s7CCCD_IO18CCCDViewControllerC24setCCCDCompletionHandleryyyAA12CCCDResponseCcF",
+            "moduleName": "CCCD_IO",
+            "declAttributes": [
+              "Custom",
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "viewDidLoad",
+            "printedName": "viewDidLoad()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@CCCD_IO@objc(cs)CCCDViewController(im)viewDidLoad",
+            "mangledName": "$s7CCCD_IO18CCCDViewControllerC11viewDidLoadyyF",
+            "moduleName": "CCCD_IO",
+            "overriding": true,
+            "objc_name": "viewDidLoad",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "viewDidAppear",
+            "printedName": "viewDidAppear(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@CCCD_IO@objc(cs)CCCDViewController(im)viewDidAppear:",
+            "mangledName": "$s7CCCD_IO18CCCDViewControllerC13viewDidAppearyySbF",
+            "moduleName": "CCCD_IO",
+            "overriding": true,
+            "objc_name": "viewDidAppear:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "supportedInterfaceOrientations",
+            "printedName": "supportedInterfaceOrientations",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIInterfaceOrientationMask",
+                "printedName": "UIKit.UIInterfaceOrientationMask",
+                "usr": "c:@E@UIInterfaceOrientationMask"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@CCCD_IO@objc(cs)CCCDViewController(py)supportedInterfaceOrientations",
+            "mangledName": "$s7CCCD_IO18CCCDViewControllerC30supportedInterfaceOrientationsSo26UIInterfaceOrientationMaskVvp",
+            "moduleName": "CCCD_IO",
+            "overriding": true,
+            "objc_name": "supportedInterfaceOrientations",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override",
+              "AccessControl"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIInterfaceOrientationMask",
+                    "printedName": "UIKit.UIInterfaceOrientationMask",
+                    "usr": "c:@E@UIInterfaceOrientationMask"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@CCCD_IO@objc(cs)CCCDViewController(im)supportedInterfaceOrientations",
+                "mangledName": "$s7CCCD_IO18CCCDViewControllerC30supportedInterfaceOrientationsSo26UIInterfaceOrientationMaskVvg",
+                "moduleName": "CCCD_IO",
+                "overriding": true,
+                "objc_name": "supportedInterfaceOrientations",
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(navigationBarClass:toolbarClass:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CCCDViewController",
+                "printedName": "CCCD_IO.CCCDViewController",
+                "usr": "c:@M@CCCD_IO@objc(cs)CCCDViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "AnyObject.Type?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ExistentialMetatype",
+                    "printedName": "AnyObject.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "AnyObject"
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "AnyObject.Type?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ExistentialMetatype",
+                    "printedName": "AnyObject.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "AnyObject"
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@CCCD_IO@objc(cs)CCCDViewController(im)initWithNavigationBarClass:toolbarClass:",
+            "mangledName": "$s7CCCD_IO18CCCDViewControllerC18navigationBarClass07toolbarG0ACyXlXpSg_AFtcfc",
+            "moduleName": "CCCD_IO",
+            "overriding": true,
+            "implicit": true,
+            "intro_iOS": "5.0",
+            "objc_name": "initWithNavigationBarClass:toolbarClass:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override",
+              "Available"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(rootViewController:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CCCDViewController",
+                "printedName": "CCCD_IO.CCCDViewController",
+                "usr": "c:@M@CCCD_IO@objc(cs)CCCDViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@CCCD_IO@objc(cs)CCCDViewController(im)initWithRootViewController:",
+            "mangledName": "$s7CCCD_IO18CCCDViewControllerC08rootViewD0ACSo06UIViewD0C_tcfc",
+            "moduleName": "CCCD_IO",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithRootViewController:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(nibName:bundle:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CCCDViewController",
+                "printedName": "CCCD_IO.CCCDViewController",
+                "usr": "c:@M@CCCD_IO@objc(cs)CCCDViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Bundle?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bundle",
+                    "printedName": "Foundation.Bundle",
+                    "usr": "c:objc(cs)NSBundle"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@CCCD_IO@objc(cs)CCCDViewController(im)initWithNibName:bundle:",
+            "mangledName": "$s7CCCD_IO18CCCDViewControllerC7nibName6bundleACSSSg_So8NSBundleCSgtcfc",
+            "moduleName": "CCCD_IO",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithNibName:bundle:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "CCCD_IO.CCCDViewController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CCCDViewController",
+                    "printedName": "CCCD_IO.CCCDViewController",
+                    "usr": "c:@M@CCCD_IO@objc(cs)CCCDViewController"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@CCCD_IO@objc(cs)CCCDViewController(im)initWithCoder:",
+            "mangledName": "$s7CCCD_IO18CCCDViewControllerC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "CCCD_IO",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@CCCD_IO@objc(cs)CCCDViewController",
+        "mangledName": "$s7CCCD_IO18CCCDViewControllerC",
+        "moduleName": "CCCD_IO",
+        "declAttributes": [
+          "Custom",
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UINavigationController",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UINavigationController",
+          "UIKit.UIViewController",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO"
+      },
+      {
+        "kind": "Import",
+        "name": "Vision",
+        "printedName": "Vision",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/VC\/Base\/TakePhotoBaseVC.swift",
+      "kind": "StringLiteral",
+      "offset": 118,
+      "length": 15,
+      "value": "\"CCCD_IO.TakePhotoButton\""
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/VC\/Base\/TakePhotoBaseVC.swift",
+      "kind": "StringLiteral",
+      "offset": 678,
+      "length": 16,
+      "value": "\"cccd.record.se\""
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/VC\/Base\/TakePhotoBaseVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 718,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/VC\/FaceMotion\/FaceMotionEntryVC.swift",
+      "kind": "StringLiteral",
+      "offset": 104,
+      "length": 18,
+      "value": "\"CCCD_IO.FaceMotionNoteItem\""
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/Network\/CCCDRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 441,
+      "length": 25,
+      "value": "\"https:\/\/api.cccd.io\/v1\/\""
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/VC\/Documnet\/DocumentEntryVC.swift",
+      "kind": "StringLiteral",
+      "offset": 100,
+      "length": 16,
+      "value": "\"CCCD_IO.DocumentItemView\""
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/VC\/Documnet\/DocumentEntryVC.swift",
+      "kind": "StringLiteral",
+      "offset": 1579,
+      "length": 42,
+      "value": "\"Căn cước công dân (có gắn chip)\""
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/VC\/Documnet\/DocumentEntryVC.swift",
+      "kind": "StringLiteral",
+      "offset": 1638,
+      "length": 25,
+      "value": "\"Chứng minh nhân dân\""
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/VC\/Documnet\/DocumentEntryVC.swift",
+      "kind": "StringLiteral",
+      "offset": 1683,
+      "length": 45,
+      "value": "\"Căn cước công dân (không gắn chip)\""
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/Components\/HighlightButton.swift",
+      "kind": "FloatLiteral",
+      "offset": 348,
+      "length": 4,
+      "value": "0.25"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/Components\/HighlightButton.swift",
+      "kind": "IntegerLiteral",
+      "offset": 385,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/Components\/HighlightButton.swift",
+      "kind": "BooleanLiteral",
+      "offset": 551,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/Components\/HighlightButton.swift",
+      "kind": "BooleanLiteral",
+      "offset": 638,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/Network\/UploadConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 254,
+      "length": 12,
+      "value": "\"upload_url\""
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/Network\/UploadConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 296,
+      "length": 17,
+      "value": "\"running_task_id\""
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/Network\/UploadConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 254,
+      "length": 12,
+      "value": "\"upload_url\""
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/Network\/UploadConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 296,
+      "length": 17,
+      "value": "\"running_task_id\""
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/VC\/Selfie\/VerifyFacePhotoVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 196,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/VC\/Selfie\/VerifyFacePhotoVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 315,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/VC\/Selfie\/VerifyFacePhotoVC.swift",
+      "kind": "StringLiteral",
+      "offset": 147,
+      "length": 9,
+      "value": "\"CCCD_IO.ImageView\""
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/VC\/Selfie\/FacePhotoEntryVC.swift",
+      "kind": "StringLiteral",
+      "offset": 102,
+      "length": 15,
+      "value": "\"CCCD_IO.SelfieNotesView\""
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/Model\/Workflow.swift",
+      "kind": "StringLiteral",
+      "offset": 618,
+      "length": 20,
+      "value": "\"CCCD_IO.WorkflowTaskDocument\""
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/Define.swift",
+      "kind": "StringLiteral",
+      "offset": 114,
+      "length": 5,
+      "value": "\"1.0\""
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/VC\/FaceVideo\/FaceVideoVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 254,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/Components\/LoadingView.swift",
+      "kind": "StringLiteral",
+      "offset": 98,
+      "length": 11,
+      "value": "\"CCCD_IO.LoadingView\""
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/WorkflowHandler.swift",
+      "kind": "StringLiteral",
+      "offset": 1290,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/WorkflowHandler.swift",
+      "kind": "StringLiteral",
+      "offset": 1335,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/WorkflowHandler.swift",
+      "kind": "StringLiteral",
+      "offset": 5542,
+      "length": 19,
+      "value": "\"upload_face_video\""
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/WorkflowHandler.swift",
+      "kind": "StringLiteral",
+      "offset": 5583,
+      "length": 20,
+      "value": "\"upload_face_motion\""
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/WorkflowHandler.swift",
+      "kind": "StringLiteral",
+      "offset": 5626,
+      "length": 19,
+      "value": "\"upload_face_photo\""
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/WorkflowHandler.swift",
+      "kind": "StringLiteral",
+      "offset": 5667,
+      "length": 23,
+      "value": "\"upload_document_photo\""
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 166,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 196,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 227,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 257,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 282,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 300,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 333,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 166,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 196,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 227,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 257,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 282,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 300,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 333,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 524,
+      "length": 10,
+      "value": "\"CCCD_IO.CCCDConfig\""
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 952,
+      "length": 12,
+      "value": "\"CCCD_IO.CCCDResponse\""
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/VC\/FaceVideo\/FaceVideoEntryVC.swift",
+      "kind": "StringLiteral",
+      "offset": 102,
+      "length": 17,
+      "value": "\"CCCD_IO.FaceVideoNoteItem\""
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/VC\/Base\/RecordVideoVC.swift",
+      "kind": "StringLiteral",
+      "offset": 150,
+      "length": 17,
+      "value": "\"CCCD_IO.RestartDialogView\""
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/VC\/Base\/RecordVideoVC.swift",
+      "kind": "StringLiteral",
+      "offset": 2914,
+      "length": 19,
+      "value": "\"cccd.video.output\""
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/VC\/Base\/RecordVideoVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2950,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/VC\/Base\/RecordVideoVC.swift",
+      "kind": "StringLiteral",
+      "offset": 3203,
+      "length": 16,
+      "value": "\"cccd.record.se\""
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/VC\/FaceMotion\/FaceMotion.swift",
+      "kind": "StringLiteral",
+      "offset": 114,
+      "length": 20,
+      "value": "\"CCCD_IO.FaceMotionFrameLayer\""
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/VC\/FaceMotion\/FaceMotion.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4376,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
+      "kind": "FloatLiteral",
+      "offset": 502,
+      "length": 4,
+      "value": "0.48"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
+      "kind": "FloatLiteral",
+      "offset": 515,
+      "length": 4,
+      "value": "0.25"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
+      "kind": "FloatLiteral",
+      "offset": 527,
+      "length": 3,
+      "value": "0.7"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
+      "kind": "IntegerLiteral",
+      "offset": 539,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
+      "kind": "FloatLiteral",
+      "offset": 571,
+      "length": 4,
+      "value": "0.11"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
+      "kind": "FloatLiteral",
+      "offset": 584,
+      "length": 4,
+      "value": "0.11"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
+      "kind": "FloatLiteral",
+      "offset": 596,
+      "length": 4,
+      "value": "0.12"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
+      "kind": "IntegerLiteral",
+      "offset": 609,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
+      "kind": "FloatLiteral",
+      "offset": 644,
+      "length": 4,
+      "value": "0.29"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
+      "kind": "FloatLiteral",
+      "offset": 657,
+      "length": 4,
+      "value": "0.27"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
+      "kind": "FloatLiteral",
+      "offset": 669,
+      "length": 4,
+      "value": "0.31"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
+      "kind": "IntegerLiteral",
+      "offset": 682,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
+      "kind": "FloatLiteral",
+      "offset": 718,
+      "length": 4,
+      "value": "0.85"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
+      "kind": "FloatLiteral",
+      "offset": 731,
+      "length": 4,
+      "value": "0.85"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
+      "kind": "FloatLiteral",
+      "offset": 743,
+      "length": 4,
+      "value": "0.85"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
+      "kind": "IntegerLiteral",
+      "offset": 756,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
+      "kind": "FloatLiteral",
+      "offset": 825,
+      "length": 4,
+      "value": "0.08"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
+      "kind": "FloatLiteral",
+      "offset": 838,
+      "length": 4,
+      "value": "0.07"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
+      "kind": "FloatLiteral",
+      "offset": 850,
+      "length": 4,
+      "value": "0.09"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
+      "kind": "IntegerLiteral",
+      "offset": 863,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
+      "kind": "FloatLiteral",
+      "offset": 898,
+      "length": 4,
+      "value": "0.08"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
+      "kind": "FloatLiteral",
+      "offset": 911,
+      "length": 4,
+      "value": "0.07"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
+      "kind": "FloatLiteral",
+      "offset": 923,
+      "length": 4,
+      "value": "0.09"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
+      "kind": "FloatLiteral",
+      "offset": 936,
+      "length": 3,
+      "value": "0.4"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
+      "kind": "FloatLiteral",
+      "offset": 970,
+      "length": 4,
+      "value": "0.73"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
+      "kind": "FloatLiteral",
+      "offset": 983,
+      "length": 3,
+      "value": "0.1"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
+      "kind": "FloatLiteral",
+      "offset": 994,
+      "length": 3,
+      "value": "0.1"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1006,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1042,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
+      "kind": "FloatLiteral",
+      "offset": 1052,
+      "length": 4,
+      "value": "0.97"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
+      "kind": "FloatLiteral",
+      "offset": 1064,
+      "length": 4,
+      "value": "0.99"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1077,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
+      "kind": "FloatLiteral",
+      "offset": 1111,
+      "length": 4,
+      "value": "0.49"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
+      "kind": "FloatLiteral",
+      "offset": 1124,
+      "length": 4,
+      "value": "0.46"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
+      "kind": "FloatLiteral",
+      "offset": 1136,
+      "length": 4,
+      "value": "0.49"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1149,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
+      "kind": "FloatLiteral",
+      "offset": 1192,
+      "length": 4,
+      "value": "0.17"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
+      "kind": "FloatLiteral",
+      "offset": 1205,
+      "length": 4,
+      "value": "0.16"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
+      "kind": "FloatLiteral",
+      "offset": 1217,
+      "length": 4,
+      "value": "0.18"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1230,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
+      "kind": "FloatLiteral",
+      "offset": 1264,
+      "length": 3,
+      "value": "0.3"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
+      "kind": "FloatLiteral",
+      "offset": 1276,
+      "length": 4,
+      "value": "0.69"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
+      "kind": "FloatLiteral",
+      "offset": 1288,
+      "length": 4,
+      "value": "0.41"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1301,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/VC\/Base\/BaseVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1581,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/Components\/ErrorView.swift",
+      "kind": "StringLiteral",
+      "offset": 95,
+      "length": 9,
+      "value": "\"CCCD_IO.ErrorView\""
+    }
+  ]
+}

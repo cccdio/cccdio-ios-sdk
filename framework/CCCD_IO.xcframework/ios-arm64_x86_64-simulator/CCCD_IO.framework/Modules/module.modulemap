@@ -1,0 +1,11 @@
+framework module CCCD_IO {
+  umbrella header "CCCD_IO.h"
+
+  export *
+  module * { export * }
+}
+
+module CCCD_IO.Swift {
+  header "CCCD_IO-Swift.h"
+  requires objc
+}
