@@ -259,6 +259,7 @@ SWIFT_CLASS("_TtC7CCCD_IO10CCCDConfig")
 @property (nonatomic, readonly, copy) NSString * _Nonnull token;
 @property (nonatomic, readonly, copy) NSString * _Nonnull workflowRunID;
 - (nonnull instancetype)initWithWorkflowRunID:(NSString * _Nonnull)workflowRunID token:(NSString * _Nonnull)token tokenExpirationHandler:(void (^ _Nullable)(void (^ _Nonnull)(NSString * _Nonnull)))tokenExpirationHandler OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)initWithWorkflowRunID:(NSString * _Nonnull)workflowRunID token:(NSString * _Nonnull)token OBJC_DESIGNATED_INITIALIZER;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end

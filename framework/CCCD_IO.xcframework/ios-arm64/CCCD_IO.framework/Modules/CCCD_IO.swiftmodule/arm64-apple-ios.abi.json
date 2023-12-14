@@ -908,13 +908,46 @@
                     ]
                   }
                 ],
-                "hasDefaultArg": true,
                 "usr": "s:Sq"
               }
             ],
             "declKind": "Constructor",
             "usr": "c:@M@CCCD_IO@objc(cs)CCCDConfig(im)initWithWorkflowRunID:token:tokenExpirationHandler:",
             "mangledName": "$s7CCCD_IO10CCCDConfigC13workflowRunID5token0G17ExpirationHandlerACSS_SSyySSccSgtcfc",
+            "moduleName": "CCCD_IO",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(workflowRunID:token:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CCCDConfig",
+                "printedName": "CCCD_IO.CCCDConfig",
+                "usr": "c:@M@CCCD_IO@objc(cs)CCCDConfig"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@CCCD_IO@objc(cs)CCCDConfig(im)initWithWorkflowRunID:token:",
+            "mangledName": "$s7CCCD_IO10CCCDConfigC13workflowRunID5tokenACSS_SStcfc",
             "moduleName": "CCCD_IO",
             "declAttributes": [
               "AccessControl",
@@ -2234,7 +2267,7 @@
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDViewController.swift",
       "kind": "StringLiteral",
-      "offset": 952,
+      "offset": 1125,
       "length": 12,
       "value": "\"CCCD_IO.CCCDResponse\""
     },
@@ -2608,6 +2641,13 @@
       "offset": 95,
       "length": 9,
       "value": "\"CCCD_IO.ErrorView\""
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/Components\/ErrorView.swift",
+      "kind": "StringLiteral",
+      "offset": 2636,
+      "length": 16,
+      "value": "\"CCCD_IO.OnelineErrorView\""
     }
   ]
 }
