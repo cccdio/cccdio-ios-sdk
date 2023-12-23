@@ -80,6 +80,13 @@
       },
       {
         "kind": "Import",
+        "name": "AVKit",
+        "printedName": "AVKit",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO"
+      },
+      {
+        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -127,6 +134,13 @@
         "declAttributes": [
           "RawDocComment"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "Vision",
+        "printedName": "Vision",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO"
       },
       {
         "kind": "Import",
@@ -2064,21 +2078,21 @@
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/VC\/Selfie\/VerifyFacePhotoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 196,
+      "offset": 210,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/VC\/Selfie\/VerifyFacePhotoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 315,
+      "offset": 329,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/VC\/Selfie\/VerifyFacePhotoVC.swift",
       "kind": "StringLiteral",
-      "offset": 147,
+      "offset": 161,
       "length": 9,
       "value": "\"CCCD_IO.ImageView\""
     },
@@ -2270,6 +2284,13 @@
       "offset": 1125,
       "length": 12,
       "value": "\"CCCD_IO.CCCDResponse\""
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1716,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/VC\/FaceVideo\/FaceVideoEntryVC.swift",
