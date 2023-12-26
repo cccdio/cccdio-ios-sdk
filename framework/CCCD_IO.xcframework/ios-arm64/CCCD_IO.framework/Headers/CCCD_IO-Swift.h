@@ -302,6 +302,16 @@ SWIFT_CLASS("_TtC7CCCD_IO18CCCDViewController")
 
 
 
+SWIFT_CLASS("_TtC7CCCD_IO9EidReader") SWIFT_AVAILABILITY(ios,introduced=15)
+@interface EidReader : NSObject
+- (nonnull instancetype)init SWIFT_UNAVAILABLE;
++ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+@end
+
+
+
+
+
 
 
 
