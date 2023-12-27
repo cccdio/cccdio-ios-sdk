@@ -8,18 +8,6 @@
 		<data>
 		Q25FvVxyuR3NXz8s65OiFBP8I24=
 		</data>
-		<key>Frameworks/OpenSSL.framework/Info.plist</key>
-		<data>
-		+IqKAHF4jS/WWJdSmgaY0il0RwI=
-		</data>
-		<key>Frameworks/OpenSSL.framework/OpenSSL</key>
-		<data>
-		F9hwhbTBLlg8QgdM6tIhxRdYI6g=
-		</data>
-		<key>Frameworks/OpenSSL.framework/_CodeSignature/CodeResources</key>
-		<data>
-		LYz71ItGU6DQ32DXZk5VDRJqaA0=
-		</data>
 		<key>Headers/CCCD_IO-Swift.h</key>
 		<data>
 		gW+uqz8NQfGRL+ryQyYEe8oJAtc=
@@ -81,34 +69,21 @@
 	<dict>
 		<key>Assets.car</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			Q25FvVxyuR3NXz8s65OiFBP8I24=
+			</data>
 			<key>hash2</key>
 			<data>
 			jZ3MOIPkuQovuBWM0gc7gx36EcrBNH5VixHuOc6Phdc=
 			</data>
 		</dict>
-		<key>Frameworks/OpenSSL.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			fvJf6inkpu8iH7peU5GWbm8ZqppEPeSABnbGpHP+z8I=
-			</data>
-		</dict>
-		<key>Frameworks/OpenSSL.framework/OpenSSL</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			CKXCHn5HAWH8CEJ/4iBGfyaNAF4kRNhHAhep0Iep7gQ=
-			</data>
-		</dict>
-		<key>Frameworks/OpenSSL.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ZsGx3wCXx8q4VC03fmCuPPUacCXK0ZuPinO/+0AkXeo=
-			</data>
-		</dict>
 		<key>Headers/CCCD_IO-Swift.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			gW+uqz8NQfGRL+ryQyYEe8oJAtc=
+			</data>
 			<key>hash2</key>
 			<data>
 			x7Yoh5kKKVNYJJYHv0L7Up0zhQ/ct3ATZ+MEa/5br8Y=
@@ -116,6 +91,10 @@
 		</dict>
 		<key>Headers/CCCD_IO.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			VGn16RZa14whEn4+JaCwywxTuGo=
+			</data>
 			<key>hash2</key>
 			<data>
 			pWiUptTo/6QQZtB70xn6OwLNupJXAXDt9gTSN0qe6qU=
@@ -123,6 +102,10 @@
 		</dict>
 		<key>Modules/CCCD_IO.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			iyR6zoLhq+5KkC9ZIp9Xtuc9aNc=
+			</data>
 			<key>hash2</key>
 			<data>
 			yqwfuAJr4r8vawBRnPbkZj5KQ/Xgein8+OhH88MLegs=
@@ -130,6 +113,10 @@
 		</dict>
 		<key>Modules/CCCD_IO.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			0H5gUV1cwkaoHYALall7jBkWaMw=
+			</data>
 			<key>hash2</key>
 			<data>
 			OS5t1kdv/pMa59Gwj0hWiB3fTfYedz8OngTKZNdWy5A=
@@ -137,6 +124,10 @@
 		</dict>
 		<key>Modules/CCCD_IO.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			R2xc98fon8YJgLIkzyJ0y4PFf48=
+			</data>
 			<key>hash2</key>
 			<data>
 			z0VIW7XUuH6856IEMbFLQG/5ihxrGFSMs0zvwgDLMIk=
@@ -144,6 +135,10 @@
 		</dict>
 		<key>Modules/CCCD_IO.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			0H5gUV1cwkaoHYALall7jBkWaMw=
+			</data>
 			<key>hash2</key>
 			<data>
 			OS5t1kdv/pMa59Gwj0hWiB3fTfYedz8OngTKZNdWy5A=
@@ -151,6 +146,10 @@
 		</dict>
 		<key>Modules/CCCD_IO.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			RqBmMXLYH3u8TEIMzs3sHeTU0q0=
+			</data>
 			<key>hash2</key>
 			<data>
 			XsDekpyJGi6j8LyU2I2H4OcxLi1e0lxdf6eJFYx2/Bc=
@@ -158,6 +157,10 @@
 		</dict>
 		<key>Modules/CCCD_IO.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			iyR6zoLhq+5KkC9ZIp9Xtuc9aNc=
+			</data>
 			<key>hash2</key>
 			<data>
 			yqwfuAJr4r8vawBRnPbkZj5KQ/Xgein8+OhH88MLegs=
@@ -165,6 +168,10 @@
 		</dict>
 		<key>Modules/CCCD_IO.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			OIpCF8sDe1aGKfunVXL4nno2Am0=
+			</data>
 			<key>hash2</key>
 			<data>
 			mp4EW2RINPEY3MxAaIa0AHOk08zF2cfv8iHvRbpYpW8=
@@ -172,6 +179,10 @@
 		</dict>
 		<key>Modules/CCCD_IO.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			gQ/w9Jgr07JWnXbC4xq9rpIJVNA=
+			</data>
 			<key>hash2</key>
 			<data>
 			sp57mnHTOPMacinMH6oD7BfRruFBTVFZLtRMXH5QVSs=
@@ -179,6 +190,10 @@
 		</dict>
 		<key>Modules/CCCD_IO.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			OIpCF8sDe1aGKfunVXL4nno2Am0=
+			</data>
 			<key>hash2</key>
 			<data>
 			mp4EW2RINPEY3MxAaIa0AHOk08zF2cfv8iHvRbpYpW8=
@@ -186,6 +201,10 @@
 		</dict>
 		<key>Modules/CCCD_IO.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			SG/9nyCVxpHWY3MRyT5VxJDkjI4=
+			</data>
 			<key>hash2</key>
 			<data>
 			dfsDXZYRKGmhgMXkDMTmLcljVa/tbZu21KvCpIxZZcc=
@@ -193,6 +212,10 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			o+L90aFoBSSn3oycSsMVIWCeocw=
+			</data>
 			<key>hash2</key>
 			<data>
 			+k8Weit1NNoedCJB+dR/3zKQZeqXQL/JzvSPUCofDPw=
