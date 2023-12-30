@@ -2136,10 +2136,10 @@
     },
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/VC\/FaceVideo\/FaceVideoVC.swift",
-      "kind": "BooleanLiteral",
-      "offset": 254,
-      "length": 5,
-      "value": "false"
+      "kind": "StringLiteral",
+      "offset": 97,
+      "length": 9,
+      "value": "\"CCCD_IO.ArrowView\""
     },
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/Components\/LoadingView.swift",
@@ -2165,28 +2165,28 @@
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/WorkflowHandler.swift",
       "kind": "StringLiteral",
-      "offset": 5607,
+      "offset": 5542,
       "length": 19,
       "value": "\"upload_face_video\""
     },
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/WorkflowHandler.swift",
       "kind": "StringLiteral",
-      "offset": 5648,
+      "offset": 5583,
       "length": 20,
       "value": "\"upload_face_motion\""
     },
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/WorkflowHandler.swift",
       "kind": "StringLiteral",
-      "offset": 5691,
+      "offset": 5626,
       "length": 19,
       "value": "\"upload_face_photo\""
     },
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/WorkflowHandler.swift",
       "kind": "StringLiteral",
-      "offset": 5732,
+      "offset": 5667,
       "length": 23,
       "value": "\"upload_document_photo\""
     },
@@ -2354,7 +2354,7 @@
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/VC\/FaceMotion\/FaceMotion.swift",
       "kind": "BooleanLiteral",
-      "offset": 4413,
+      "offset": 4221,
       "length": 5,
       "value": "false"
     },
@@ -2642,27 +2642,27 @@
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
       "kind": "FloatLiteral",
       "offset": 1264,
-      "length": 3,
-      "value": "0.3"
+      "length": 4,
+      "value": "0.62"
     },
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
       "kind": "FloatLiteral",
-      "offset": 1276,
+      "offset": 1277,
       "length": 4,
-      "value": "0.69"
+      "value": "0.84"
     },
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
       "kind": "FloatLiteral",
-      "offset": 1288,
+      "offset": 1289,
       "length": 4,
-      "value": "0.41"
+      "value": "0.38"
     },
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
       "kind": "IntegerLiteral",
-      "offset": 1301,
+      "offset": 1302,
       "length": 1,
       "value": "1"
     },
