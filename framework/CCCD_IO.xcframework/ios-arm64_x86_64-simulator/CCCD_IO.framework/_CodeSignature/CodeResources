@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		Q25FvVxyuR3NXz8s65OiFBP8I24=
+		nklMdWDlSNDxzkUUaFr8VWAcoKY=
 		</data>
 		<key>Headers/CCCD_IO-Swift.h</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Modules/CCCD_IO.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		iyR6zoLhq+5KkC9ZIp9Xtuc9aNc=
+		MJeUN0sYmEWO9abGYtPcT7IxNs0=
 		</data>
 		<key>Modules/CCCD_IO.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>Modules/CCCD_IO.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		RqBmMXLYH3u8TEIMzs3sHeTU0q0=
+		4uMNvd2OIXqo2hBdyenSPTso+ME=
 		</data>
 		<key>Modules/CCCD_IO.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		iyR6zoLhq+5KkC9ZIp9Xtuc9aNc=
+		MJeUN0sYmEWO9abGYtPcT7IxNs0=
 		</data>
 		<key>Modules/CCCD_IO.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Modules/CCCD_IO.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		SG/9nyCVxpHWY3MRyT5VxJDkjI4=
+		3tkKx6Gkj2mmIQ3nxB5hJjDUv+0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -69,21 +69,13 @@
 	<dict>
 		<key>Assets.car</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Q25FvVxyuR3NXz8s65OiFBP8I24=
-			</data>
 			<key>hash2</key>
 			<data>
-			jZ3MOIPkuQovuBWM0gc7gx36EcrBNH5VixHuOc6Phdc=
+			Jl/+iCmtYyt6/teiYhtGmfYDPPAzf/e1DhzQeBPyieo=
 			</data>
 		</dict>
 		<key>Headers/CCCD_IO-Swift.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			gW+uqz8NQfGRL+ryQyYEe8oJAtc=
-			</data>
 			<key>hash2</key>
 			<data>
 			x7Yoh5kKKVNYJJYHv0L7Up0zhQ/ct3ATZ+MEa/5br8Y=
@@ -91,10 +83,6 @@
 		</dict>
 		<key>Headers/CCCD_IO.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			VGn16RZa14whEn4+JaCwywxTuGo=
-			</data>
 			<key>hash2</key>
 			<data>
 			pWiUptTo/6QQZtB70xn6OwLNupJXAXDt9gTSN0qe6qU=
@@ -102,21 +90,13 @@
 		</dict>
 		<key>Modules/CCCD_IO.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			iyR6zoLhq+5KkC9ZIp9Xtuc9aNc=
-			</data>
 			<key>hash2</key>
 			<data>
-			yqwfuAJr4r8vawBRnPbkZj5KQ/Xgein8+OhH88MLegs=
+			9yu+t/ypQ79Id+eF6Gj0cilL5MjoCIvs9Zt+Yj6vxu0=
 			</data>
 		</dict>
 		<key>Modules/CCCD_IO.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			0H5gUV1cwkaoHYALall7jBkWaMw=
-			</data>
 			<key>hash2</key>
 			<data>
 			OS5t1kdv/pMa59Gwj0hWiB3fTfYedz8OngTKZNdWy5A=
@@ -124,10 +104,6 @@
 		</dict>
 		<key>Modules/CCCD_IO.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			R2xc98fon8YJgLIkzyJ0y4PFf48=
-			</data>
 			<key>hash2</key>
 			<data>
 			z0VIW7XUuH6856IEMbFLQG/5ihxrGFSMs0zvwgDLMIk=
@@ -135,10 +111,6 @@
 		</dict>
 		<key>Modules/CCCD_IO.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			0H5gUV1cwkaoHYALall7jBkWaMw=
-			</data>
 			<key>hash2</key>
 			<data>
 			OS5t1kdv/pMa59Gwj0hWiB3fTfYedz8OngTKZNdWy5A=
@@ -146,32 +118,20 @@
 		</dict>
 		<key>Modules/CCCD_IO.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			RqBmMXLYH3u8TEIMzs3sHeTU0q0=
-			</data>
 			<key>hash2</key>
 			<data>
-			XsDekpyJGi6j8LyU2I2H4OcxLi1e0lxdf6eJFYx2/Bc=
+			WJcWvlyG6K7PFPRIxQC+ceHMlHg5lkTyTWtMoOTy+DU=
 			</data>
 		</dict>
 		<key>Modules/CCCD_IO.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			iyR6zoLhq+5KkC9ZIp9Xtuc9aNc=
-			</data>
 			<key>hash2</key>
 			<data>
-			yqwfuAJr4r8vawBRnPbkZj5KQ/Xgein8+OhH88MLegs=
+			9yu+t/ypQ79Id+eF6Gj0cilL5MjoCIvs9Zt+Yj6vxu0=
 			</data>
 		</dict>
 		<key>Modules/CCCD_IO.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			OIpCF8sDe1aGKfunVXL4nno2Am0=
-			</data>
 			<key>hash2</key>
 			<data>
 			mp4EW2RINPEY3MxAaIa0AHOk08zF2cfv8iHvRbpYpW8=
@@ -179,10 +139,6 @@
 		</dict>
 		<key>Modules/CCCD_IO.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			gQ/w9Jgr07JWnXbC4xq9rpIJVNA=
-			</data>
 			<key>hash2</key>
 			<data>
 			sp57mnHTOPMacinMH6oD7BfRruFBTVFZLtRMXH5QVSs=
@@ -190,10 +146,6 @@
 		</dict>
 		<key>Modules/CCCD_IO.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			OIpCF8sDe1aGKfunVXL4nno2Am0=
-			</data>
 			<key>hash2</key>
 			<data>
 			mp4EW2RINPEY3MxAaIa0AHOk08zF2cfv8iHvRbpYpW8=
@@ -201,21 +153,13 @@
 		</dict>
 		<key>Modules/CCCD_IO.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			SG/9nyCVxpHWY3MRyT5VxJDkjI4=
-			</data>
 			<key>hash2</key>
 			<data>
-			dfsDXZYRKGmhgMXkDMTmLcljVa/tbZu21KvCpIxZZcc=
+			7tkYDR1FK1ttBQFc7lA/9fYUMGqGInXk5Dxac20vfn8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			o+L90aFoBSSn3oycSsMVIWCeocw=
-			</data>
 			<key>hash2</key>
 			<data>
 			+k8Weit1NNoedCJB+dR/3zKQZeqXQL/JzvSPUCofDPw=

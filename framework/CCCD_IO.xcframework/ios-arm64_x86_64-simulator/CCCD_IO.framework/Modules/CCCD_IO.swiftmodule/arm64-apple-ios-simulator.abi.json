@@ -9119,6 +9119,13 @@
       },
       {
         "kind": "Import",
+        "name": "CoreNFC",
+        "printedName": "CoreNFC",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO"
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -9555,6 +9562,23 @@
         "kind": "Import",
         "name": "Vision",
         "printedName": "Vision",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CCCD_IO",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "CCCD_IO"
       },
@@ -25883,28 +25907,28 @@
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/VC\/Documnet\/DocumentEntryVC.swift",
       "kind": "StringLiteral",
-      "offset": 100,
+      "offset": 115,
       "length": 16,
       "value": "\"CCCD_IO.DocumentItemView\""
     },
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/VC\/Documnet\/DocumentEntryVC.swift",
       "kind": "StringLiteral",
-      "offset": 1579,
+      "offset": 1594,
       "length": 42,
       "value": "\"Căn cước công dân (có gắn chip)\""
     },
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/VC\/Documnet\/DocumentEntryVC.swift",
       "kind": "StringLiteral",
-      "offset": 1638,
+      "offset": 1653,
       "length": 25,
       "value": "\"Chứng minh nhân dân\""
     },
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/VC\/Documnet\/DocumentEntryVC.swift",
       "kind": "StringLiteral",
-      "offset": 1683,
+      "offset": 1698,
       "length": 45,
       "value": "\"Căn cước công dân (không gắn chip)\""
     },
@@ -26063,6 +26087,13 @@
       "value": "\"CCCD_IO.ImageView\""
     },
     {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/VC\/NFC\/NFCScanVerifyVC.swift",
+      "kind": "StringLiteral",
+      "offset": 119,
+      "length": 18,
+      "value": "\"CCCD_IO.OutlineSuccessView\""
+    },
+    {
       "filePath": "\/Users\/user4\/code\/iOS\/NFCTest\/NFCTest\/NFCReader\/Common\/OpenSSLUtils.swift",
       "kind": "BooleanLiteral",
       "offset": 151,
@@ -26093,7 +26124,7 @@
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/Model\/Workflow.swift",
       "kind": "StringLiteral",
-      "offset": 659,
+      "offset": 618,
       "length": 20,
       "value": "\"CCCD_IO.WorkflowTaskDocument\""
     },
@@ -26876,10 +26907,10 @@
     },
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/VC\/FaceVideo\/FaceVideoVC.swift",
-      "kind": "BooleanLiteral",
-      "offset": 254,
-      "length": 5,
-      "value": "false"
+      "kind": "StringLiteral",
+      "offset": 97,
+      "length": 9,
+      "value": "\"CCCD_IO.ArrowView\""
     },
     {
       "filePath": "\/Users\/user4\/code\/iOS\/NFCTest\/NFCTest\/NFCReader\/Common\/DataGroupParser.swift",
@@ -26996,42 +27027,42 @@
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/WorkflowHandler.swift",
       "kind": "StringLiteral",
-      "offset": 1290,
+      "offset": 1292,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/WorkflowHandler.swift",
       "kind": "StringLiteral",
-      "offset": 1335,
+      "offset": 1337,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/WorkflowHandler.swift",
       "kind": "StringLiteral",
-      "offset": 5852,
+      "offset": 5736,
       "length": 19,
       "value": "\"upload_face_video\""
     },
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/WorkflowHandler.swift",
       "kind": "StringLiteral",
-      "offset": 5893,
+      "offset": 5777,
       "length": 20,
       "value": "\"upload_face_motion\""
     },
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/WorkflowHandler.swift",
       "kind": "StringLiteral",
-      "offset": 5936,
+      "offset": 5820,
       "length": 19,
       "value": "\"upload_face_photo\""
     },
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/WorkflowHandler.swift",
       "kind": "StringLiteral",
-      "offset": 5977,
+      "offset": 5861,
       "length": 23,
       "value": "\"upload_document_photo\""
     },
@@ -27283,7 +27314,7 @@
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/VC\/FaceMotion\/FaceMotion.swift",
       "kind": "BooleanLiteral",
-      "offset": 4413,
+      "offset": 4221,
       "length": 5,
       "value": "false"
     },
@@ -27571,27 +27602,27 @@
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
       "kind": "FloatLiteral",
       "offset": 1264,
-      "length": 3,
-      "value": "0.3"
+      "length": 4,
+      "value": "0.62"
     },
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
       "kind": "FloatLiteral",
-      "offset": 1276,
+      "offset": 1277,
       "length": 4,
-      "value": "0.69"
+      "value": "0.84"
     },
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
       "kind": "FloatLiteral",
-      "offset": 1288,
+      "offset": 1289,
       "length": 4,
-      "value": "0.41"
+      "value": "0.38"
     },
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
       "kind": "IntegerLiteral",
-      "offset": 1301,
+      "offset": 1302,
       "length": 1,
       "value": "1"
     },
@@ -27902,6 +27933,13 @@
       "offset": 4713,
       "length": 4,
       "value": "\".4\""
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/VC\/NFC\/NFCScanVC.swift",
+      "kind": "StringLiteral",
+      "offset": 97,
+      "length": 17,
+      "value": "\"CCCD_IO.RestartDialogFull\""
     },
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/VC\/NFC\/MRZScanVC.swift",
