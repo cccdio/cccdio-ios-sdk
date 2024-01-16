@@ -27362,169 +27362,169 @@
     },
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
-      "kind": "FloatLiteral",
+      "kind": "IntegerLiteral",
       "offset": 898,
-      "length": 4,
-      "value": "0.08"
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
+      "kind": "IntegerLiteral",
+      "offset": 908,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
+      "kind": "IntegerLiteral",
+      "offset": 917,
+      "length": 1,
+      "value": "0"
     },
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
       "kind": "FloatLiteral",
-      "offset": 911,
-      "length": 4,
-      "value": "0.07"
-    },
-    {
-      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
-      "kind": "FloatLiteral",
-      "offset": 923,
-      "length": 4,
-      "value": "0.09"
-    },
-    {
-      "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
-      "kind": "FloatLiteral",
-      "offset": 936,
+      "offset": 927,
       "length": 3,
-      "value": "0.4"
+      "value": "0.8"
     },
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
       "kind": "FloatLiteral",
-      "offset": 970,
+      "offset": 961,
       "length": 4,
       "value": "0.73"
     },
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
       "kind": "FloatLiteral",
-      "offset": 983,
+      "offset": 974,
       "length": 3,
       "value": "0.1"
     },
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
       "kind": "FloatLiteral",
-      "offset": 994,
+      "offset": 985,
       "length": 3,
       "value": "0.1"
     },
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
       "kind": "IntegerLiteral",
-      "offset": 1006,
+      "offset": 997,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
       "kind": "IntegerLiteral",
-      "offset": 1042,
+      "offset": 1033,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
       "kind": "FloatLiteral",
-      "offset": 1052,
+      "offset": 1043,
       "length": 4,
       "value": "0.97"
     },
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
       "kind": "FloatLiteral",
-      "offset": 1064,
+      "offset": 1055,
       "length": 4,
       "value": "0.99"
     },
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
       "kind": "IntegerLiteral",
-      "offset": 1077,
+      "offset": 1068,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
       "kind": "FloatLiteral",
-      "offset": 1111,
+      "offset": 1102,
       "length": 4,
       "value": "0.49"
     },
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
       "kind": "FloatLiteral",
-      "offset": 1124,
+      "offset": 1115,
       "length": 4,
       "value": "0.46"
     },
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
       "kind": "FloatLiteral",
-      "offset": 1136,
+      "offset": 1127,
       "length": 4,
       "value": "0.49"
     },
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
       "kind": "IntegerLiteral",
-      "offset": 1149,
+      "offset": 1140,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
       "kind": "FloatLiteral",
-      "offset": 1192,
+      "offset": 1183,
       "length": 4,
       "value": "0.17"
     },
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
       "kind": "FloatLiteral",
-      "offset": 1205,
+      "offset": 1196,
       "length": 4,
       "value": "0.16"
     },
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
       "kind": "FloatLiteral",
-      "offset": 1217,
+      "offset": 1208,
       "length": 4,
       "value": "0.18"
     },
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
       "kind": "IntegerLiteral",
-      "offset": 1230,
+      "offset": 1221,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
       "kind": "FloatLiteral",
-      "offset": 1264,
+      "offset": 1255,
       "length": 4,
       "value": "0.62"
     },
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
       "kind": "FloatLiteral",
-      "offset": 1277,
+      "offset": 1268,
       "length": 4,
       "value": "0.84"
     },
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
       "kind": "FloatLiteral",
-      "offset": 1289,
+      "offset": 1280,
       "length": 4,
       "value": "0.38"
     },
     {
       "filePath": "\/Users\/user4\/code\/iOS\/CCCD_IO\/CCCD_IO\/CCCDStyle.swift",
       "kind": "IntegerLiteral",
-      "offset": 1302,
+      "offset": 1293,
       "length": 1,
       "value": "1"
     },
